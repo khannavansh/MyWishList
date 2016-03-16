@@ -1,0 +1,14 @@
+input[type="file"] {
+    display: none;
+}
+
+
+.custom-file-upload {
+    display: inline-block;
+    padding: 6px 12px;
+    color: white;
+background-color:orange;
+    cursor: pointer;
+}
+
+s
